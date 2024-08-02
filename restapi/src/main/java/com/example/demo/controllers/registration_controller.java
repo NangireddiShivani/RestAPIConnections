@@ -18,7 +18,7 @@ import com.example.demo.models.registration;
 import com.example.demo.services.registration_services;
 @RestController
 //send data into postman
-@CrossOrigin("http://localhost:4200")
+// @CrossOrigin("http://localhost:4200")
 //send to angular-fronend and backend connection
 @RequestMapping("/api/v1")
 
